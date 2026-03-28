@@ -1,6 +1,17 @@
 # 💫 About Me:
-Hi, I’m @aadrika2006<br>I’m interested in Crafting innovative solutions with code and navigating the vast wonders of technology.<br>I’m currently learning web development and Data science, with a focus on frontend technologies like HTML, C, Python.<br>I’m looking to collaborate on open-source projects, aiming to contribute to the development of a more inclusive and robust tech community.<br>How to reach me Feel free to connect with me on LinkedIn or drop me an email at aadrika0306@gmail.com.<br>Fun fact: Crafting innovative solutions with code and navigating the vast wonders of technology.
+Hi, I’m @aadrika2006 👩‍💻
 
+🚀 I build intelligent, real-world solutions by blending code, creativity, and AI — turning ideas into impactful digital experiences.
+
+🧠 Currently diving deep into Web Development & Data Science, with a strong focus on crafting responsive frontends and exploring the power of intelligent systems using Python.
+
+⚡ I enjoy working at the intersection of AI + Full Stack Development, constantly experimenting, learning, and pushing boundaries.
+
+🤝 Open to collaborating on open-source projects, especially those that create meaningful impact and solve real problems.
+
+✨ Fun Fact: I don’t just write code — I design solutions that think, adapt, and evolve.
+
+🌐 Let’s connect and build something amazing together:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aadrika-a-5690332a9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadrika0306@gmail.com) 
@@ -13,16 +24,26 @@ Hi, I’m @aadrika2006<br>I’m interested in Crafting innovative solutions with
 
 ## 🚀 Featured Projects
 
-🔹 **DocuMind AI**  
-AI-powered offline assistant with smart & advanced modes  
-
-🔹 **AI Ophthalmology Triage System**  
-Detects eye emergencies using AI models  
-
 🔹 **TollFuel Pro**  
-Smart trip and fuel tracking system with analytics  
+Smart toll & fuel management app for tracking trips, expenses, and analytics in real-time.  
+Tech: Flutter, Backend APIs, Database  
 
-🔹 **Data Science Projects**  
-Machine learning models for prediction & insights  
+🔹 **MORPHOX – AI 2D to 3D Converter**  
+AI-based tool that converts 2D product images into 3D visualizations.  
+Tech: Python, Computer Vision, AI Models  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔹 **AI Chatbot Web App**  
+Full-stack intelligent chatbot with real-time conversation and clean UI.  
+Tech: React, Node.js, Express  
+
+🔹 **E-commerce Full Stack System**  
+Complete e-commerce architecture including frontend design and backend logic.  
+Tech: HTML, CSS, JavaScript, Backend APIs  
+
+🔹 **Authentication App**  
+Secure login and authentication system with user validation.  
+Tech: JavaScript, Backend Integration  
+
+🔹 **Pong Game**  
+Classic arcade-style game with smooth animations and responsive design.  
+Tech: HTML, CSS, JavaScript  
