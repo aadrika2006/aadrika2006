@@ -3,7 +3,7 @@ Hi, I’m @aadrika2006 👩‍💻
 
 🚀 I build intelligent, real-world solutions by blending code, creativity, and AI — turning ideas into impactful digital experiences.
 
-🧠 Currently diving deep into Web Development & Data Science, with a strong focus on crafting responsive frontends and exploring the power of intelligent systems using Python.
+🧠 Currently diving deep into Web Development & AI Modelling, with a strong focus on crafting responsive frontends and exploring the power of intelligent systems using Python.
 
 ⚡ I enjoy working at the intersection of AI + Full Stack Development, constantly experimenting, learning, and pushing boundaries.
 
@@ -38,11 +38,7 @@ Tech: React, Node.js, Express
 
 🔹 **E-commerce Full Stack System**  
 Complete e-commerce architecture including frontend design and backend logic.  
-Tech: HTML, CSS, JavaScript, Backend APIs  
-
-🔹 **Authentication App**  
-Secure login and authentication system with user validation.  
-Tech: JavaScript, Backend Integration  
+Tech: HTML, CSS, JavaScript, Backend APIs   
 
 🔹 **Pong Game**  
 Classic arcade-style game with smooth animations and responsive design.  
