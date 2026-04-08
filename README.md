@@ -21,25 +21,3 @@ Hi, I’m @aadrika2006 👩‍💻
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🚀 Featured Projects
-
-🔹 **TollFuel Pro**  
-Smart toll & fuel management app for tracking trips, expenses, and analytics in real-time.  
-Tech: Flutter, Backend APIs, Database  
-
-🔹 **MORPHOX – AI 2D to 3D Converter**  
-AI-based tool that converts 2D product images into 3D visualizations.  
-Tech: Python, Computer Vision, AI Models  
-
-🔹 **AI Chatbot Web App**  
-Full-stack intelligent chatbot with real-time conversation and clean UI.  
-Tech: React, Node.js, Express  
-
-🔹 **E-commerce Full Stack System**  
-Complete e-commerce architecture including frontend design and backend logic.  
-Tech: HTML, CSS, JavaScript, Backend APIs   
-
-🔹 **Pong Game**  
-Classic arcade-style game with smooth animations and responsive design.  
-Tech: HTML, CSS, JavaScript  
